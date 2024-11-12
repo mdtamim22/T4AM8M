@@ -38,22 +38,22 @@ module.exports = {
 
 		message.reply({
 			body: `  🍒𝐓𝐀𝐌𝐈𝐌ツ🍒  \n
-🤖 Bot Name: ${𝐓𝐀𝐌𝐈𝐌ツ}
-🚀 Prefix: ${/}
-👤 Owner: ${𝐓𝐀𝐌𝐈𝐌}
+🤖 Bot Name: $𝐓𝐀𝐌𝐈𝐌ツ
+🚀 Prefix: $/
+👤 Owner: $𝐓𝐀𝐌𝐈𝐌
 🔆 Age: ${18+}
-☢️ Team: ${teamName}
-🍒 authorFb: ${https://www.facebook.com/itsmetamim1.0}
+☢️ Team: $AVAILABLE}
+🍒 authorFb: $https://www.facebook.com/itsmetamim1.0}
 📱 insta: ${not available}
 🏠 TikTok: ${not available}
-🖊️ stutes: ${st}
-⏱️ seconds: ${seconds}
-🕰️ minutes: ${minutes}
-🛸 hours: ${hours}
-🌒 days: ${days}
-🌧️ date: ${date}
-☔ Time: ${time}
-⏰ uptime: ${uptimeString}
+🖊️ stutes: $student
+⏱️ seconds: $60
+🕰️ minutes: $59
+🛸 hours: ${6 hours}
+🌒 days: $
+🌧️ date: $
+☔ Time: $
+⏰ uptime: $
  `,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
