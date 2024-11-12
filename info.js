@@ -37,9 +37,9 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `  🍒𝐓𝐀𝐌𝐈𝐌ツ🍒  \n
+			body: `  🍒𝐓𝐀𝐌𝐈𝐌 𝐈𝐍𝐅𝐎ツ🍒  \n
 🤖 Bot Name: ${𝐓𝐀𝐌𝐈𝐌ツ}
-🚀 Prefix: ${bot/}
+🚀 Prefix: ${/}
 👤 Owner: ${𝐓𝐀𝐌𝐈𝐌}
 🔆 Age: ${18+}
 ☢️ Team: ${teamName}
