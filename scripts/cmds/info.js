@@ -37,19 +37,19 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `  🍒𝐓𝐀𝐌𝐈𝐌ツ🍒  \n
+			body: `  🍒𝐓𝐀𝐌𝐈𝐌ツ𝐈𝐍𝐅𝐎🍒  \n
 🤖 Bot Name: $𝐓𝐀𝐌𝐈𝐌ツ
 🚀 Prefix: $/
 👤 Owner: $𝐓𝐀𝐌𝐈𝐌
-🔆 Age: ${18+}
-☢️ Team: $AVAILABLE}
+🔆 Age: $18+
+☢️ Team: $AVAILABLE
 🍒 authorFb: $https://www.facebook.com/itsmetamim1.0}
-📱 insta: ${not available}
-🏠 TikTok: ${not available}
+📱 insta: $not available
+🏠 TikTok: $available
 🖊️ stutes: $student
-⏱️ seconds: $60
-🕰️ minutes: $59
-🛸 hours: ${6 hours}
+⏱️ seconds: $
+🕰️ minutes: $
+🛸 hours: $
 🌒 days: $
 🌧️ date: $
 ☔ Time: $
