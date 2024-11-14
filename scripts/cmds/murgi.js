@@ -15,7 +15,7 @@ module.exports.onStart = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention, tag: name});
     var ArYan = function (ArYan) { api.sendMessage(ArYan, event.threadID); }
-ArYan("hello bro ArYAN er Chuda kha 🥱");
+ArYan("hello bro TAMIM er Chuda kha 🥱");
 setTimeout(() => {ArYan({body:"খানকির বাচ্চা তোর মারে চুদি 🫦।" + " " + name, mentions: arraytag})}, 3000);
 setTimeout(() => {ArYan({body: "খানকির বাচ্চা তোর কচি বোন রে চুদি 💋.." + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {ArYan({body: "মাদারচোদ তোর আম্মুর পম পম খানকির পো 🐰" + " " + name, mentions: arraytag})}, 7000);
