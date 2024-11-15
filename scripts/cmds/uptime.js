@@ -84,9 +84,9 @@ module.exports = {
 
     onStart: async function ({ api, event, usersData, threadsData }) {
 
-        const botName = config.nickNameBot || "☞︎︎︎✍︎ 𝐓 𝐀 𝐌 𝐈 𝐌 ✿︎𝙱☺︎︎𝚃 ♕︎"; // Fetching from config
+        const botName = config.nickNameBot || "☞︎︎︎✍︎ 𝐓𝐀𝐌𝐈𝐌 ✿︎𝙱☺︎︎𝚃 ♕︎"; // Fetching from config
 
-        const botPrefix = config.prefix || ".";
+        const botPrefix = config.prefix || "/";
 
         const botVersion = "1.5"; 
 
@@ -106,7 +106,7 @@ module.exports = {
 
         const links = [
 
-            "https://i.imgur.com/zTABIvF.jpeg"
+            "https://i.imgur.com/7N0MkIU.jpeg"
 
         ];
 
@@ -444,4 +444,4 @@ function formatUptime(seconds) {
 
     return uptimeStringParts.join(', ');
 
-          }
+                            }
