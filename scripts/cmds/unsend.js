@@ -1,10 +1,10 @@
-module.exports = {admin
-	config: {admin 
+module.exports = {
+	config: {
 		name: "uns",
 		version: "1.2",
 		author: "T4M1M",
 		countDown: 5,
-		role: 1,
+		role: 2,
 		description: {
 			vi: "Gỡ tin nhắn của bot",
 			en: "Unsend bot's message"
