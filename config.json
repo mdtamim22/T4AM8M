@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "mdtamimchowdhory766@gmail.com",
-    "password": "Tamim@32",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -44,7 +44,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐓𝐀𝐌𝐈𝐌___//➍➋⓿ ;* :) 3:)",
+  "nickNameBot": "𝐓𝐀𝐌𝐈𝐌___//➍➋⓿💙😘🙂",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
